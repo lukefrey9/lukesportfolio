@@ -3,6 +3,15 @@
 body {
 	margin: 0 auto;
 }
+a:link {
+     color: #000000;
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
+}
 .homePage {
 	background: #222222;
 }
